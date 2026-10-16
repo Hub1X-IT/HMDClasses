@@ -1,0 +1,342 @@
+[
+    {
+        "code": "alchemist",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "armorer",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "artist",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "barber-surgeon",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "brewer",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "chef",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "farmer",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "fisherman",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "forester",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "highlander",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "innkeeper",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "lumberjack",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "miner",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "mason",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "merchant",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "mystic",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "navigator",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "nomad",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "potter",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "scribe",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "sheperd",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "smith",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "tailor",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "tunnel-rat",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "wanderer",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+    {
+        "code": "wildman",
+        "enabled": false,
+        "traits": [
+
+        ],
+        "gear": [
+            {
+                "type": "item",
+                "code": "",
+            }
+        ]
+    },
+
+
+]

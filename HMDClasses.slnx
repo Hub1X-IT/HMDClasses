@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="HMDClasses/HMDClasses.csproj" />
+  <Project Path="ZZCakeBuild/CakeBuild.csproj" />
+</Solution>
